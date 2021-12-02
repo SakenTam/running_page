@@ -55,6 +55,6 @@ export {
   USE_ANIMATION_FOR_GRID,
 };
 
-const nike = 'rgb(224,237,94)'; // if you want change the main color change here src/styles/variables.scss
+const nike = 'rgb(70,130,180)'; // if you want change the main color change here src/styles/variables.scss
 export const MAIN_COLOR = nike;
 export const PROVINCE_FILL_COLOR = '#47b8e0';
