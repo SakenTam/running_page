@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Second Running Page',
     siteUrl: 'https://blog.sakentam.icu',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    logo: 'https://avatars.githubusercontent.com/u/49632755',
     description: 'Personal site and blog',
     navLinks: [
       {
@@ -11,8 +11,8 @@ module.exports = {
         url: 'https://blog.sakentam.icu',
       },
       {
-        name: 'About',
-        url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+        name: 'GitHub',
+        url: 'https://github.com/sakentam',
       },
     ],
   },
